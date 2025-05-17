@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interference/static/css/main.09fe1707.css",
+    "main.js": "/interference/static/js/main.56781aed.js",
+    "index.html": "/interference/index.html",
+    "main.09fe1707.css.map": "/interference/static/css/main.09fe1707.css.map",
+    "main.56781aed.js.map": "/interference/static/js/main.56781aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09fe1707.css",
+    "static/js/main.56781aed.js"
+  ]
+}
